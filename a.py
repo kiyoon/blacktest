@@ -1,4 +1,5 @@
-# A python file that Black check will fail on
+# A python file that Black check will succeed
+
 
 def foo():
     print("Hello world")
